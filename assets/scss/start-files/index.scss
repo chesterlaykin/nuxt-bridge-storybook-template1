@@ -1,0 +1,9 @@
+
+/* independent */
+@import '../independent/mixins.scss';
+
+/* specific */
+@import '../specific/breakpoints.scss';
+@import '../specific/variables.scss';
+
+@import '../main.scss';
